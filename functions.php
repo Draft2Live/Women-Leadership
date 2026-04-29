@@ -5,7 +5,7 @@
 
 if ( ! defined( 'ABSPATH' ) ) exit;
 
-define( 'LUMINARY_VERSION', '1.0.4' );
+define( 'LUMINARY_VERSION', '1.0.5' );
 define( 'LUMINARY_DIR', get_template_directory() );
 define( 'LUMINARY_URI', get_template_directory_uri() );
 
